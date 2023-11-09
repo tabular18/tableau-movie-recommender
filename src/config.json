@@ -1,0 +1,6 @@
+{
+"inputfolder": "data\\input\\ml-latest-small\\raw",
+"tempfolder": "data\\output\\temp",
+"outputfolder": "data\\output"
+
+}
